@@ -1,6 +1,6 @@
-package com.company;
+package Method;
 
-public class Main {
+public class CallMethod {
     static  void myMethod () {
         System.out.println("I love You!");
     }
